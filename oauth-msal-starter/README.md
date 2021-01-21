@@ -16,3 +16,7 @@ Directory, and you'll use some of the information from there so that authenticat
     
     Together, the above four steps should allow you to have a functional "Sign in with Microsoft" button with the Microsoft Authentication Library, as well as to log back out of the related Microsoft account.
 4. Test your app out in localhost (making sure to use `https`), or feel free to deploy the app as well.
+
+### Outcome: 
+![](1.png)
+![](2.png)
